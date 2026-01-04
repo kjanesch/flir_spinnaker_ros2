@@ -1,4 +1,5 @@
 # FLIR/Spinnaker ROS2 driver
+**This repo is archived, and the [original repo](https://github.com/berndpfrommer/flir_spinnaker_ros2) has now been integrated to [ros-drivers for ROS2 Humble](https://github.com/ros-drivers/flir_camera_driver). Thanks!**
 
 Simple ROS2 driver for the FLIR cameras using the [Spinnaker
 SDK](http://softwareservices.flir.com/Spinnaker/latest/index.htmlspinnaker).
